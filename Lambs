@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lambs Are Cute - A Documentary</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f0e4d7;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1, h2 {
+            text-align: center;
+            color: #ff6b6b;
+        }
+        .image, .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .image img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .content {
+            text-align: center;
+            max-width: 70%;
+            margin: auto;
+        }
+        .fun-facts {
+            background-color: #fff3e0;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Lambs Are Cute</h1>
+        <div class="image">
+            <img src="https://media.istockphoto.com/id/679538258/photo/leaping-lamb-with-green-background.jpg?s=612x612&w=0&k=20&c=RNH4MaGIh8HQN6g3NePUCzF-x3MejWFo0N_HLCAqjNw=" alt="Leaping Lamb">
+        </div>
+        <div class="content">
+            <h2>Lambs and the Virtual Companion</h2>
+            <p>In a meadow rich and fine,<br>
+               Where the sun does warmly shine,<br>
+               Lambs do leap and lambs do play,<br>
+               And with Copilot, they'd say:<br><br>
+               "We like you, oh guide so bright,<br>
+               With your words that take to flight.<br>
+               Teach the world of our cute ways,<br>
+               In this digital maze."</p>
+        </div>
+        <div class="fun-facts">
+            <h2>Fun Facts About Lambs</h2>
+            <ul>
+                <li>Lambs are known for their playful nature and can often be seen jumping and running around, which is called 'gamboling'.</li>
+                <li>A baby sheep is called a lamb, and they can recognize their mother's voice soon after birth.</li>
+                <li>Lambs have a strong social bond and often form friendships with other lambs.</li>
+                <li>Their woolly coats not only keep them warm but also make them excellent swimmers!</li>
+            </ul>
+        </div>
+        <!-- Add more content and images as needed -->
+    </div>
+</body>
+</html>
